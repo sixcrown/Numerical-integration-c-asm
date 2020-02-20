@@ -1,0 +1,6 @@
+﻿  Assembling mojadll.asm...
+mojadll.asm(8): warning A6004: procedure argument or local not referenced : hInstDLL
+mojadll.asm(8): warning A6004: procedure argument or local not referenced : reason
+mojadll.asm(8): warning A6004: procedure argument or local not referenced : reserved1
+     Creating library C:\Users\Kartosz Bawa│kiewicz\Desktop\JA5SEMESTR\JAProject2\x64\Debug\JADLL.lib and object C:\Users\Kartosz Bawa│kiewicz\Desktop\JA5SEMESTR\JAProject2\x64\Debug\JADLL.exp
+  JADLL.vcxproj -> C:\Users\Kartosz Bawałkiewicz\Desktop\JA5SEMESTR\JAProject2\x64\Debug\JADLL.dll

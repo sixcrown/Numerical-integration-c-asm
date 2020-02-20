@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  JADLLC.cpp
+     Creating library C:\Users\Kartosz Bawałkiewicz\Desktop\JA5SEMESTR\JAProject2\x64\Release\JADLLC.lib and object C:\Users\Kartosz Bawałkiewicz\Desktop\JA5SEMESTR\JAProject2\x64\Release\JADLLC.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JADLLC.vcxproj -> C:\Users\Kartosz Bawałkiewicz\Desktop\JA5SEMESTR\JAProject2\x64\Release\JADLLC.dll
